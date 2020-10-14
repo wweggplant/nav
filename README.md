@@ -1,5 +1,7 @@
 # 预览
 
+[demo](https://wweggplant.github.io/nav/dist/index.html)
+
 # 开发
 
 ```
